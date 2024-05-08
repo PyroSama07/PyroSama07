@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on LLM Related projects
 - 📫 How to reach me:
 -  email: rochakranjan1011@gmail.com
+- discord: pyrosama07
 
 My projects:  
 | Computer Vision | Deep Learning | Springboot (java) | Hack-a-Thon entries | 
